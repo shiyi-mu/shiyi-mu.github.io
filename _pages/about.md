@@ -21,9 +21,9 @@ My research interest includes License Plate Recognition, Anomaly Detection and A
 
 # 📝 Publications 
 
-[Full-category Robust License Plate Recognition Based on Character Attention](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c211210)
--《基于单字符注意力的全品类鲁棒车牌识别》
-**穆世义**, 徐树公，自动化学报2023
+Full-category Robust License Plate Recognition Based on Character Attention
+
+-《基于单字符注意力的全品类鲁棒车牌识别》，**穆世义**, 徐树公，自动化学报2023
 
 - This paper proposes a high-performance recognition system that is compatible with both single and double-row license plates as well as tilted license plates.
 - 本文提出一种兼容单双行车牌及倾斜车牌的高性能识别系统。 
